@@ -2,5 +2,6 @@
 
 1- git init
 2- git add .
-git reset .
-3- git commit
+3- git reset .
+4- git commit
+5- git checkout -- .
